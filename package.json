@@ -1,0 +1,19 @@
+{
+  "name": "ppa",
+  "version": "1.0.0",
+  "description": "precision poverty alleviation oa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demigod2015/ppa.git"
+  },
+  "author": "demigod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demigod2015/ppa/issues"
+  },
+  "homepage": "https://github.com/demigod2015/ppa#readme"
+}
